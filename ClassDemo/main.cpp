@@ -40,7 +40,7 @@ int main() {
     
     Houses   myHouse("5555");
     
-    //myHouse.setAddr("1671");
+    myHouse.setAddr("1671");
         
     
     
